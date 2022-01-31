@@ -56,3 +56,17 @@ h2 {
 }
 
 /* -------------------------------------------------------- */
+/* BANNER */
+
+#game-banner {
+    width: 100%;
+    padding: 40px;
+}
+
+.border-game {
+    border-radius: 20px;
+}
+
+#game-banner img:hover {
+    border: 1px solid blue;
+}
