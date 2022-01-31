@@ -70,3 +70,23 @@ h2 {
 #game-banner img:hover {
     border: 1px solid blue;
 }
+
+/* -------------------------------------------------------- */
+/* CONSOLE */
+
+#console {
+    padding: 40px;
+}
+
+#console sup {
+    font-size: 8px;
+}
+
+.opacity {
+    opacity: 0.6;
+}
+
+.opacity:hover {
+    opacity: 1;
+    border-bottom: 1px solid blue;
+}
