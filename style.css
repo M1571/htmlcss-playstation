@@ -9,6 +9,7 @@ body {
 }
 
 /* -------------------------------------------------------- */
+/* HEADER */
 
 #sony {
     background-color: black;
@@ -18,3 +19,19 @@ body {
     width: 100px;
     height: 40px;
 }
+
+/* -------------------------------------------------------- */
+/* NAVBAR */
+
+.fa-chevron-down {
+    color: lightgrey;
+    font-size: 12px;
+    padding-left: 5px;
+    justify-content: end;
+}
+
+.navabar button {
+    margin: 0 10px;
+}
+
+/* -------------------------------------------------------- */
